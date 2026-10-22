@@ -1,0 +1,3 @@
+Test Accuracy: 90.45%
+Correct Predictions: 587/649
+Training Time: 43291.76 seconds

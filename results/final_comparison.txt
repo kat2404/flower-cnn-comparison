@@ -1,0 +1,6 @@
+FLOWER CNN COMPARISON
+=====================
+MobileNetV2: 90.14% (585/649 correct)
+ResNet50: 90.45% (587/649 correct)
+Accuracy difference: 0.31 percentage points
+ResNet50 has slightly higher test accuracy.
